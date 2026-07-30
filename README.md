@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a **Data Practitioner and Economist** with over **9 years of experience** in KPI development, statistical analysis, and policy and budget planning. I specialize in transforming complex datasets into actionable insights that support data-driven decision-making, improve organizational performance, and drive strategic outcomes.
+I'm a **Data Enthusiast and Economist** with over **9 years of experience** in KPI development, statistical analysis, and policy and budget planning. I specialize in transforming complex datasets into actionable insights that support data-driven decision-making, improve organizational performance, and drive strategic outcomes.
 
 My expertise includes **Python, R, SQL, Tableau, and Power BI**, with hands-on experience in data analysis, dashboard development, statistical modeling, and business intelligence.
 
