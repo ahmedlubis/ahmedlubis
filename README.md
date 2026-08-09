@@ -63,7 +63,7 @@ Here are some of the projects you'll find in this repository:
 ## 📫 Connect with Me
 
 - LinkedIn: https://linkedin.com/in/ahmedlubis
-- Email: ahmednlubis@gmail.com
+- Email: ahmedlubis@gmail.com
 
 ---
 
