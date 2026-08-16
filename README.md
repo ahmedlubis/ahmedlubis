@@ -1,141 +1,42 @@
 # Hi, I'm Ahmed Lubis 👋
 
-### Economist · Data Analyst · Statistical Modeling
+### Data Analyst | Business Intelligence | Economist
 
-I use **data, statistics, and programming** to turn complex datasets
-into clear insights for better decision-making.
-
-My work combines **economics, statistics, data analytics, and machine
-learning**, with projects covering forecasting, econometrics,
-predictive modeling, simulation, NLP, and business intelligence.
-
----
+I work with **data, statistics, and economics** to turn complex information into useful insights and better decisions.
 
 ## 🛠️ Skills
 
-**Languages**
+* 🐍 Python
+* 📊 R
+* 🗄️ SQL
+* 🟨 Power BI
+* 📈 Tableau
+* 📐 Statistics & Econometrics
+* 🤖 Machine Learning
+* 📊 Data Visualization
 
-Python · R · SQL
+## 🔍 What I Do
 
-**Statistics & Modeling**
+* Data Analysis & Visualization
+* Statistical & Econometric Analysis
+* Business Intelligence & Dashboards
+* Predictive Analytics
+* Economic Analysis
+* Data Storytelling
 
-Regression · Econometrics · Time Series · Forecasting ·
-Panel Data · Bayesian Methods · Machine Learning · NLP
+## 📂 Projects
 
-**Data & BI**
+My GitHub projects cover:
 
-Power BI · Tableau · Excel · Data Visualization
+* 📊 **Business Intelligence** — Power BI dashboards
+* 📈 **Statistical Analysis** — Regression & Econometrics
+* 🔮 **Forecasting** — Time Series & Predictive Modeling
+* 🤖 **Machine Learning** — NLP & Applied ML
 
-**Tools**
+## 🎯 Currently Focusing On
 
-Git · GitHub · Jupyter · R Markdown
+**Data Analytics · Business Intelligence · Power BI · Statistical Modeling**
 
----
+> Turning data into insights and insights into decisions.
 
-## 🚀 Featured Projects
-
-### 🇮🇩 Indonesia Inflation Forecast
-
-**Time Series · ARIMA · Forecasting · R**
-
-Analysis of Indonesian inflation trends with ARIMA-based forecasting.
-
-🔗 [View Project](https://github.com/ahmedlubis/indonesia-inflation-arima-forecast)
-
----
-
-### 😊 World Happiness Panel Analysis
-
-**Panel Data · Fixed Effects · Econometrics · Python**
-
-Longitudinal analysis of factors associated with national happiness
-using panel-data regression models.
-
-🔗 [View Project](https://github.com/ahmedlubis/world-happiness-panel-analysis)
-
----
-
-### ⚽ 2026 World Cup Monte Carlo Prediction
-
-**Monte Carlo Simulation · Probability · R**
-
-Simulation-based analysis estimating championship probabilities for
-the 2026 FIFA World Cup.
-
-🔗 [View Project](https://github.com/ahmedlubis/world-cup-2026-monte-carlo-prediction)
-
----
-
-### 🏦 Bank Term Deposit Prediction
-
-**Logistic Regression · Classification · Python**
-
-Predictive modeling of customer term-deposit subscription using
-logistic regression and interpretable feature effects.
-
-🔗 [View Project](https://github.com/ahmedlubis/bank-term-deposit-logistic-regression)
-
----
-
-### 📰 Indonesian Hoax News Classification
-
-**NLP · Feature Selection · Machine Learning · R**
-
-Text classification and variable-selection analysis for Indonesian
-hoax news detection.
-
-🔗 [View Project](https://github.com/ahmedlubis/indonesian-hoax-news-classification)
-
----
-
-### 📈 LQ45 Bayesian Game Analysis
-
-**Bayesian Game Theory · Finance · R**
-
-Game-theoretic analysis of strategic interactions within the
-Indonesian LQ45 stock market.
-
-🔗 [View Project](https://github.com/ahmedlubis/lq45-bayesian-game-analysis)
-
----
-
-## 📊 Areas of Interest
-
-- 📈 Economic & Financial Analysis
-- 📊 Statistical Modeling
-- 🔮 Time-Series Forecasting
-- 🧮 Econometrics
-- 🤖 Machine Learning
-- 🧠 Natural Language Processing
-- 🎲 Simulation & Bayesian Methods
-- 📊 Business Intelligence & Data Visualization
-
----
-
-## 📚 Currently Learning
-
-- Advanced SQL
-- Causal Inference
-- Advanced Statistical Modeling
-- Bayesian Methods
-- Machine Learning
-
----
-
-## 🎯 My Approach
-
-> **Understand the problem → Explore the data → Build the model →  
-> Evaluate the results → Communicate the insight**
-
-I believe good data analysis is not only about building accurate
-models, but also about making the results **understandable,
-reproducible, and useful for decision-making**.
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: [@ahmedlubis](https://www.linkedin.com/in/ahmedlubis/)
-- 🐙 GitHub: [@ahmedlubis](https://github.com/ahmedlubis)
-
----
+Thanks for visiting! 🚀
